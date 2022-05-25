@@ -1,0 +1,5 @@
+1. To save and close the file
+- esc button
+- type :
+- Type wq. (write and quit)
+- hit Enter to save
